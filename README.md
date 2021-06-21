@@ -3,7 +3,7 @@ PAUZAT Océane
 
 | Photo | Description |
 | ------------- | ------------- |
-![picture](https://i.pinimg.com/564x/10/7f/30/107f3088f8159d8331dac3c8af125a92.jpg)||
+![picture](https://i.pinimg.com/564x/10/7f/30/107f3088f8159d8331dac3c8af125a92.jpg)|............|
 
 ## Informations personnelles
 
